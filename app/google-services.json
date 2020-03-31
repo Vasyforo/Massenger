@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959458319562",
+    "firebase_url": "https://projectchat-3b076.firebaseio.com",
+    "project_id": "projectchat-3b076",
+    "storage_bucket": "projectchat-3b076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458319562:android:9914e05f6b580e3caa2833",
+        "android_client_info": {
+          "package_name": "massenger.project.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458319562-277uvtqjhftlo16miiktcv75blgdjidm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_azUjy5NLAbN-vipwWgyuM1noNg4QHf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458319562-277uvtqjhftlo16miiktcv75blgdjidm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
